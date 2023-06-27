@@ -3,7 +3,7 @@ package dns_test
 import (
 	"errors"
 	"fmt"
-	"github.com/janeczku/go-dnsmasq/dns"
+	"github.com/raj-raskar/go-dnsmasq/dns"
 	"log"
 	"net"
 )

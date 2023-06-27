@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
-	"github.com/janeczku/go-dnsmasq/dns"
+	"github.com/raj-raskar/go-dnsmasq/dns"
+	log "github.com/sirupsen/logrus"
 )
 
 // Config stores options for hostsfile

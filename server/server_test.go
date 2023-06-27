@@ -14,8 +14,8 @@ package server
 	"testing"
 	"time"
 
-	"github.com/janeczku/go-dnsmasq/dns"
-	"github.com/janeczku/go-dnsmasq/cache"
+	"github.com/raj-raskar/go-dnsmasq/dns"
+	"github.com/raj-raskar/go-dnsmasq/cache"
 )
 
 // Keep global port counter that increments with 10 for each
