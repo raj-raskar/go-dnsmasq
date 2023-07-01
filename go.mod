@@ -1,4 +1,4 @@
-module github.com/raj-raskar/go-dnsmasq
+module github.com/janeczku/go-dnsmasq
 
 go 1.20
 

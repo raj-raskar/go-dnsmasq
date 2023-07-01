@@ -13,8 +13,8 @@ import (
 	"time"
 
 	activation "github.com/aptly-dev/aptly/systemd/activation"
+	"github.com/janeczku/go-dnsmasq/cache"
 	"github.com/miekg/dns"
-	"github.com/raj-raskar/go-dnsmasq/cache"
 	log "github.com/sirupsen/logrus"
 )
 
