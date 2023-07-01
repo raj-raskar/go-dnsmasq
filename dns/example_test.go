@@ -3,9 +3,10 @@ package dns_test
 import (
 	"errors"
 	"fmt"
-	"github.com/raj-raskar/go-dnsmasq/dns"
 	"log"
 	"net"
+
+	"github.com/janeczku/go-dnsmasq/dns"
 )
 
 // Retrieve the MX records for miek.nl.

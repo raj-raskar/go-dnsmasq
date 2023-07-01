@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/raj-raskar/go-dnsmasq/dns"
+	"github.com/janeczku/go-dnsmasq/dns"
 )
 
 const TypeISBN uint16 = 0x0F01

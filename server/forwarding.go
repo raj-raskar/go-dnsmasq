@@ -7,7 +7,7 @@ package server
 import (
 	"strings"
 
-	"github.com/raj-raskar/go-dnsmasq/dns"
+	"github.com/janeczku/go-dnsmasq/dns"
 	log "github.com/sirupsen/logrus"
 )
 
